@@ -2,12 +2,18 @@ body{
     margin: auto;
     width: 50%;
     text-align: center;
+    font-family:sans-serif;
 }
 
 span{
     font-family:'Dancing Script', cursive;
+    font-size: larger;
 }
 
 h1{
-    font-family:'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+p{
+    
 }
