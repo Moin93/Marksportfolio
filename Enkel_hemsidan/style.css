@@ -1,4 +1,13 @@
-/*body{
-   background-color:floralwhite;
-    
-}*/
+body{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+span{
+    font-family:'Dancing Script', cursive;
+}
+
+h1{
+    font-family:'Roboto Slab', serif;
+}
