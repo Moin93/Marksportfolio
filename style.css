@@ -32,15 +32,10 @@ h1{
   
   /* mouse over link */
   a:hover {
-    color: red;
+    color:crimson;
   }
   
   /* selected link */
   a:active {
-    color: yellow;
-  }
-  
-  
-  span:hover + div {
-    display: block;
+    color:cornflowerblue;
   }
