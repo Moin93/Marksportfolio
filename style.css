@@ -20,3 +20,27 @@ h1{
     padding: 5px; /* Some padding */
     width: 150px; /* Set a small width */
   }
+ 
+  a:link {
+    color:brown;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:burlywood;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: yellow;
+  }
+  
+  
+  span:hover + div {
+    display: block;
+  }
